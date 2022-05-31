@@ -1,0 +1,12 @@
+.button {
+    color: #d9552b;
+    display: flex;
+    border: 1px solid #d9552b;
+    background: none;
+    padding: .5rem 1rem;
+    border-radius: 10px;
+}
+
+.button:active {
+    transform: scale(1.05);
+}
