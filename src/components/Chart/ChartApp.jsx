@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
 import ChartComponent from "./ChartComponent";
-import {useLabels} from "../hooks/useLabels";
-import {useDatasets} from "../hooks/useDatasets";
-import MyInput from "../ui/MyInput/MyInput";
-import MyTitle from "../ui/MyTitle/MyTitle";
-import MyButton from "../ui/MyButton/MyButton";
+import {useLabels} from "../../hooks/useLabels";
+import {useDatasets} from "../../hooks/useDatasets";
+import MyInput from "../../ui/MyInput/MyInput";
+import MyTitle from "../../ui/MyTitle/MyTitle";
+import MyButton from "../../ui/MyButton/MyButton";
 import classes from "./ChartApp.module.css"
 
 const ChartApp = () => {

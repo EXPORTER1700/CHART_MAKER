@@ -1,5 +1,5 @@
 import React from 'react';
-import ChartApp from "./Chart/ChartApp";
+import ChartApp from "./components/Chart/ChartApp";
 
 const App = () => {
     return (

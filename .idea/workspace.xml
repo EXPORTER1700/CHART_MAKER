@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ca6507-a276-42e8-8b9f-679965641e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chart/ChartApp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chart/ChartApp.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chart/ChartComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useDatasets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useLabels.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/MyButton/MyButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/MyButton/MyButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/MyInput/MyInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/MyInput/MyInput.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/MyTitle/MyTitle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/MyTitle/MyTitle.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +23,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\web\2022\chart-app\src\ui\MyInput" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,12 +61,25 @@
       <workItem from="1653995897389" duration="227000" />
       <workItem from="1653996178020" duration="1795000" />
       <workItem from="1653998198141" duration="3052000" />
-      <workItem from="1654005177719" duration="17777000" />
+      <workItem from="1654005177719" duration="18310000" />
+      <workItem from="1654024135776" duration="268000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1654023307880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654023307880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Inspections" timestamp="1653997444046">
@@ -84,6 +90,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1654017855420" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1654023306177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1654023306177" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1654023602206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1654023602206" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1654023602206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1654023602206" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1654023602206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1654023602206" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1654023602206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1654023602206" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1654023363923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1654023363923" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1654017786744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
